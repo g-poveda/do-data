@@ -26760,77 +26760,88 @@
       "cost": 26.64,
       "speed": 12.5,
       "co2Emissions": 1680,
-      "capacity": 1800000000000
+      "capacity": 1800000000000,
+      "type": "sea"
     },
     "9ec1ab98-6ec0-4af1-8281-b32e04c45557": {
       "name": "TR_37f7026257afb729",
       "cost": 0.5,
       "speed": 35,
       "co2Emissions": 90,
-      "capacity": 65695049000
+      "capacity": 65695049000,
+      "type": "sea"
     },
     "c0b0e492-d453-4421-8b88-a157bdee5b02": {
       "name": "TR_04573f34dc9e3dfe",
       "cost": 3.5,
       "speed": 55,
       "co2Emissions": 709.09,
-      "capacity": 96603936000
+      "capacity": 96603936000,
+      "type": "land"
     },
     "fe4de180-4453-402c-a2f9-110777b278fa": {
       "name": "TR_fbf64cc727baf133",
       "cost": 4.5,
       "speed": 50,
       "co2Emissions": 780,
-      "capacity": 148434000000
+      "capacity": 148434000000,
+      "type": "land"
     },
     "9c4a095c-2468-4fa5-9749-d5d27eea2c0a": {
       "name": "TR_464448f7af6f430b",
       "cost": 3.5,
       "speed": 50,
       "co2Emissions": 780,
-      "capacity": 65695049000
+      "capacity": 65695049000,
+      "type": "land"
     },
     "578a835b-900c-438b-bd24-206240ec8e75": {
       "name": "TR_053797e474db16df",
       "cost": 2.7,
       "speed": 60,
       "co2Emissions": 708.4,
-      "capacity": 65695049000
+      "capacity": 65695049000,
+      "type": "land"
     },
     "0e625668-0d9d-4505-88d3-2f4c793a630e": {
       "name": "TR_ab2d245aa3a02226",
       "cost": 1.44,
       "speed": 25,
       "co2Emissions": 62.4,
-      "capacity": 65695049000
+      "capacity": 65695049000,
+      "type": "sea"
     },
     "4c64b530-fed0-495d-ac8a-05ea7588071c": {
       "name": "TR_a69ce1b807cced28",
       "cost": 3.5,
       "speed": 55,
       "co2Emissions": 709.09,
-      "capacity": 65695049000
+      "capacity": 65695049000,
+      "type": "land"
     },
     "34e58906-4489-4bff-b20b-62efc7663d43": {
       "name": "TR_57d1727d1540f494",
       "cost": 6.4,
       "speed": 25,
       "co2Emissions": 160,
-      "capacity": 68276000000
+      "capacity": 68276000000,
+      "type": "sea"
     },
     "45918dea-722e-4bd0-9662-fdf0d6343191": {
       "name": "TR_1836b3e1163bb64c",
       "cost": 4.5,
       "speed": 50,
       "co2Emissions": 780,
-      "capacity": 146520000000
+      "capacity": 146520000000,
+      "type": "land"
     },
     "7e5764c8-b3d8-401c-9c01-791f3f7a8cb6": {
       "name": "TR_6e27c226b8e09971",
       "cost": 32,
       "speed": 625,
       "co2Emissions": 49470,
-      "capacity": 2217375000000
+      "capacity": 2217375000000,
+      "type": "air"
     }
   }
 }
